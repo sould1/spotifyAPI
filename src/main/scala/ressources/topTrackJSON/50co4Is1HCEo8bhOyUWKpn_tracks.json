@@ -1,0 +1,1054 @@
+{
+    "tracks": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+              },
+              "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+              "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+              "name": "Young Stoner Life",
+              "type": "artist",
+              "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+              "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+              "name": "Gunna",
+              "type": "artist",
+              "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+          },
+          "href": "https://api.spotify.com/v1/albums/3ihwKkIMJWmmp1huNH0iWC",
+          "id": "3ihwKkIMJWmmp1huNH0iWC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27332e9cf7de86c1558a4d300c4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0232e9cf7de86c1558a4d300c4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485132e9cf7de86c1558a4d300c4",
+              "width": 64
+            }
+          ],
+          "name": "Slime Language 2",
+          "release_date": "2021-04-16",
+          "release_date_precision": "day",
+          "total_tracks": 23,
+          "type": "album",
+          "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+            "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+            "name": "Young Stoner Life",
+            "type": "artist",
+            "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "name": "Gunna",
+            "type": "artist",
+            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215693,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QMCE32100237"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rTInqW3YECMkQsBEHw4sd",
+        "id": "6rTInqW3YECMkQsBEHw4sd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Solid (feat. Drake)",
+        "popularity": 86,
+        "preview_url": "https://p.scdn.co/mp3-preview/82b21b6f15a83b0eba7755af990cb3eb3d215eac?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6rTInqW3YECMkQsBEHw4sd"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+              },
+              "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+              "id": "7bXgB6jMjp9ATFy66eO08Z",
+              "name": "Chris Brown",
+              "type": "artist",
+              "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+          },
+          "href": "https://api.spotify.com/v1/albums/7fZKtzZAsfH0kzeTivu5TG",
+          "id": "7fZKtzZAsfH0kzeTivu5TG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0263e0ddbb488d0eeec0e738fc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485163e0ddbb488d0eeec0e738fc",
+              "width": 64
+            }
+          ],
+          "name": "Slime & B",
+          "release_date": "2020-05-08",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7fZKtzZAsfH0kzeTivu5TG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176960,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USRC12001468"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1IIKrJVP1C9N7iPtG6eOsK",
+        "id": "1IIKrJVP1C9N7iPtG6eOsK",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Go Crazy",
+        "popularity": 83,
+        "preview_url": "https://p.scdn.co/mp3-preview/cd1e4584425d4be8eae7489d704a36c3166a0065?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1IIKrJVP1C9N7iPtG6eOsK"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+              },
+              "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+              "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+              "name": "Young Stoner Life",
+              "type": "artist",
+              "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+              "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+              "name": "Gunna",
+              "type": "artist",
+              "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+          },
+          "href": "https://api.spotify.com/v1/albums/3ihwKkIMJWmmp1huNH0iWC",
+          "id": "3ihwKkIMJWmmp1huNH0iWC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27332e9cf7de86c1558a4d300c4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0232e9cf7de86c1558a4d300c4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485132e9cf7de86c1558a4d300c4",
+              "width": 64
+            }
+          ],
+          "name": "Slime Language 2",
+          "release_date": "2021-04-16",
+          "release_date_precision": "day",
+          "total_tracks": 23,
+          "type": "album",
+          "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+            "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+            "name": "Young Stoner Life",
+            "type": "artist",
+            "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "name": "Gunna",
+            "type": "artist",
+            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 152333,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QMCE32100185"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6755DFiZ7CWe2WMdTGW5C1",
+        "id": "6755DFiZ7CWe2WMdTGW5C1",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Ski",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/41eaab43b89976407aae4d53529783a3acdd809e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6755DFiZ7CWe2WMdTGW5C1"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+              },
+              "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+              "id": "4MCBfE4596Uoi2O4DtmEMz",
+              "name": "Juice WRLD",
+              "type": "artist",
+              "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+          },
+          "href": "https://api.spotify.com/v1/albums/5hUFZjxtqYvxm9FGUhHCdE",
+          "id": "5hUFZjxtqYvxm9FGUhHCdE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730bda1f6aa92d42f44d621db6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e020bda1f6aa92d42f44d621db6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048510bda1f6aa92d42f44d621db6",
+              "width": 64
+            }
+          ],
+          "name": "Bad Boy (with Young Thug)",
+          "release_date": "2021-01-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5hUFZjxtqYvxm9FGUhHCdE"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+            "id": "4MCBfE4596Uoi2O4DtmEMz",
+            "name": "Juice WRLD",
+            "type": "artist",
+            "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 157355,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUG12002097"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43CIWpJaJHRcI4mUSjqgc2",
+        "id": "43CIWpJaJHRcI4mUSjqgc2",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Bad Boy (with Young Thug)",
+        "popularity": 79,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:43CIWpJaJHRcI4mUSjqgc2"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+              "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+              "name": "Travis Scott",
+              "type": "artist",
+              "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+              "id": "0QJIPDAEDILuo8AIq3pMuU",
+              "name": "M.I.A.",
+              "type": "artist",
+              "uri": "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/4Bp7LKA5Afo1PRoXuQe8qZ",
+          "id": "4Bp7LKA5Afo1PRoXuQe8qZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27370f2ab5608885749f7210b5f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0270f2ab5608885749f7210b5f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485170f2ab5608885749f7210b5f",
+              "width": 64
+            }
+          ],
+          "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+          "release_date": "2020-09-25",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4Bp7LKA5Afo1PRoXuQe8qZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "type": "artist",
+            "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+            "id": "0QJIPDAEDILuo8AIq3pMuU",
+            "name": "M.I.A.",
+            "type": "artist",
+            "uri": "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202794,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM12004756"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jVBIpuOiMj1crqd8LoCrJ",
+        "id": "4jVBIpuOiMj1crqd8LoCrJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/06945b5c44f23c9e11d648c48076a942dfe075ac?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4jVBIpuOiMj1crqd8LoCrJ"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+              },
+              "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+              "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+              "name": "Young Stoner Life",
+              "type": "artist",
+              "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+              "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+              "name": "Gunna",
+              "type": "artist",
+              "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+          },
+          "href": "https://api.spotify.com/v1/albums/3ihwKkIMJWmmp1huNH0iWC",
+          "id": "3ihwKkIMJWmmp1huNH0iWC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27332e9cf7de86c1558a4d300c4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0232e9cf7de86c1558a4d300c4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485132e9cf7de86c1558a4d300c4",
+              "width": 64
+            }
+          ],
+          "name": "Slime Language 2",
+          "release_date": "2021-04-16",
+          "release_date_precision": "day",
+          "total_tracks": 23,
+          "type": "album",
+          "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+            "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+            "name": "Young Stoner Life",
+            "type": "artist",
+            "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "name": "Gunna",
+            "type": "artist",
+            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "type": "artist",
+            "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 242600,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QMCE32100198"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uZqvqXzzYMKrexKxdcGmd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uZqvqXzzYMKrexKxdcGmd",
+        "id": "7uZqvqXzzYMKrexKxdcGmd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Diamonds Dancing (feat. Travis Scott)",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/5a94dfe45ad1933b386a6b1bc1033f1a860a75da?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7uZqvqXzzYMKrexKxdcGmd"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+          },
+          "href": "https://api.spotify.com/v1/albums/1bnHPO4dKK7IjvgrtVBcQh",
+          "id": "1bnHPO4dKK7IjvgrtVBcQh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736fcd1b6e205d0d19d9efa0cc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026fcd1b6e205d0d19d9efa0cc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516fcd1b6e205d0d19d9efa0cc",
+              "width": 64
+            }
+          ],
+          "name": "So Much Fun",
+          "release_date": "2019-08-16",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:1bnHPO4dKK7IjvgrtVBcQh"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "name": "Gunna",
+            "type": "artist",
+            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193026,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USAT21904711"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Z8HZM6iQMhhqyPcCGY5g9",
+        "id": "5Z8HZM6iQMhhqyPcCGY5g9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Hot (feat. Gunna)",
+        "popularity": 75,
+        "preview_url": "https://p.scdn.co/mp3-preview/ae942ea0edeae519e31555386d89b49e5242a62d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5Z8HZM6iQMhhqyPcCGY5g9"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+              },
+              "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+              "id": "5fMUXHkw8R8eOP2RNVYEZX",
+              "name": "Diplo",
+              "type": "artist",
+              "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
+          },
+          "href": "https://api.spotify.com/v1/albums/24EiVoJXLPY9a6a7AqZNDg",
+          "id": "24EiVoJXLPY9a6a7AqZNDg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273116f8f46fd52e7a8a38a8c35",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02116f8f46fd52e7a8a38a8c35",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851116f8f46fd52e7a8a38a8c35",
+              "width": 64
+            }
+          ],
+          "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
+          "release_date": "2020-05-27",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:24EiVoJXLPY9a6a7AqZNDg"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+            "id": "5fMUXHkw8R8eOP2RNVYEZX",
+            "name": "Diplo",
+            "type": "artist",
+            "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+            },
+            "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+            "id": "6x2LnllRG5uGarZMsD4iO8",
+            "name": "Thomas Rhett",
+            "type": "artist",
+            "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 170157,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM12001004"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wXgnhpmOPEJ7cUweSyy2B",
+        "id": "6wXgnhpmOPEJ7cUweSyy2B",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dance with Me (feat. Thomas Rhett & Young Thug)",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/a56cb78776f40c877442a63f0af3f6c62eb7d32a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:6wXgnhpmOPEJ7cUweSyy2B"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+          },
+          "href": "https://api.spotify.com/v1/albums/51KZKzPd3OQT1r46a55VTt",
+          "id": "51KZKzPd3OQT1r46a55VTt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02419cedff7b313b962a93932e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851419cedff7b313b962a93932e",
+              "width": 64
+            }
+          ],
+          "name": "Beautiful Thugger Girls",
+          "release_date": "2017-06-16",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:51KZKzPd3OQT1r46a55VTt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+            },
+            "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+            "id": "1RyvyyTE3xzB2ZywiAwp0i",
+            "name": "Future",
+            "type": "artist",
+            "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215306,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USAT21701747"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25oOaleife6E2MIKmFkPvg",
+        "id": "25oOaleife6E2MIKmFkPvg",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Relationship (feat. Future)",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/198bb5cfb2a2261bd3cc338709e9f3848f9bb001?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:25oOaleife6E2MIKmFkPvg"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+              },
+              "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+              "id": "5f7VJjfbwm532GiveGC0ZK",
+              "name": "Lil Baby",
+              "type": "artist",
+              "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+              },
+              "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+              "id": "3hcs9uc56yIGFCSy9leWe7",
+              "name": "Lil Durk",
+              "type": "artist",
+              "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+          },
+          "href": "https://api.spotify.com/v1/albums/6CvBb1XqN0igtQrWrbXD80",
+          "id": "6CvBb1XqN0igtQrWrbXD80",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739fa79040de02a72663f24323",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029fa79040de02a72663f24323",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519fa79040de02a72663f24323",
+              "width": 64
+            }
+          ],
+          "name": "The Voice of the Heroes",
+          "release_date": "2021-06-04",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:6CvBb1XqN0igtQrWrbXD80"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+            "id": "5f7VJjfbwm532GiveGC0ZK",
+            "name": "Lil Baby",
+            "type": "artist",
+            "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+            "id": "3hcs9uc56yIGFCSy9leWe7",
+            "name": "Lil Durk",
+            "type": "artist",
+            "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218417,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUG12101611"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2L6lh2RmMs1yz4FQzdbwOn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2L6lh2RmMs1yz4FQzdbwOn",
+        "id": "2L6lh2RmMs1yz4FQzdbwOn",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Up The Side (feat. Young Thug)",
+        "popularity": 73,
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:2L6lh2RmMs1yz4FQzdbwOn"
+      }
+    ]
+  }

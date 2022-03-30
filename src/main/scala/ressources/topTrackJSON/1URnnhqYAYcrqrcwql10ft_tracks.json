@@ -1,0 +1,894 @@
+{
+    "tracks": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+              },
+              "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+              "id": "6l3HvQ5sa6mXTsMTB19rO5",
+              "name": "J. Cole",
+              "type": "artist",
+              "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+          },
+          "href": "https://api.spotify.com/v1/albums/4JAvwK4APPArjIsOdGoJXX",
+          "id": "4JAvwK4APPArjIsOdGoJXX",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27310e6745bb2f179dd3616b85f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0210e6745bb2f179dd3616b85f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485110e6745bb2f179dd3616b85f",
+              "width": 64
+            }
+          ],
+          "name": "The Off-Season",
+          "release_date": "2021-05-14",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4JAvwK4APPArjIsOdGoJXX"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+            "id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "name": "J. Cole",
+            "type": "artist",
+            "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+            },
+            "href": "https://api.spotify.com/v1/artists/44vREmJC0OlVZjZaGLqVEd",
+            "id": "44vREmJC0OlVZjZaGLqVEd",
+            "name": "Morray",
+            "type": "artist",
+            "uri": "spotify:artist:44vREmJC0OlVZjZaGLqVEd"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218801,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QMJMT2103634"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1D3z6HTiQsNmZxjl7F7eoG",
+        "id": "1D3z6HTiQsNmZxjl7F7eoG",
+        "is_local": false,
+        "is_playable": true,
+        "name": "m y . l i f e (with 21 Savage & Morray)",
+        "popularity": 88,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1D3z6HTiQsNmZxjl7F7eoG"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+              "id": "0QHgL1lAIqAw0HtD7YldmP",
+              "name": "DJ Khaled",
+              "type": "artist",
+              "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+          },
+          "href": "https://api.spotify.com/v1/albums/5kE2OAuUYGBqqzscqgBXXf",
+          "id": "5kE2OAuUYGBqqzscqgBXXf",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273dcd4d70294f17175991ba1bb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02dcd4d70294f17175991ba1bb",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851dcd4d70294f17175991ba1bb",
+              "width": 64
+            }
+          ],
+          "name": "KHALED KHALED",
+          "release_date": "2021-04-30",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:5kE2OAuUYGBqqzscqgBXXf"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+            "id": "0QHgL1lAIqAw0HtD7YldmP",
+            "name": "DJ Khaled",
+            "type": "artist",
+            "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "type": "artist",
+            "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 165526,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM12102186"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cEhrSF6EylAEqdhUGuNpX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1cEhrSF6EylAEqdhUGuNpX",
+        "id": "1cEhrSF6EylAEqdhUGuNpX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "LET IT GO (feat. Justin Bieber & 21 Savage)",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/a9ff9a4fbcd8bb38c3524ec66a2f76d7634a5b6d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1cEhrSF6EylAEqdhUGuNpX"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+              },
+              "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+              "id": "0iEtIxbK0KxaSlF7G42ZOp",
+              "name": "Metro Boomin",
+              "type": "artist",
+              "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+          },
+          "href": "https://api.spotify.com/v1/albums/6wTyGUWGCilBFZ837k5aRi",
+          "id": "6wTyGUWGCilBFZ837k5aRi",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02aa57907bf0cb2ca0c8cc74bc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851aa57907bf0cb2ca0c8cc74bc",
+              "width": 64
+            }
+          ],
+          "name": "SAVAGE MODE II",
+          "release_date": "2020-10-02",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:6wTyGUWGCilBFZ837k5aRi"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+            "id": "0iEtIxbK0KxaSlF7G42ZOp",
+            "name": "Metro Boomin",
+            "type": "artist",
+            "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195906,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM12005346"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5SWnsxjhdcEDc7LJjq9UHk",
+        "id": "5SWnsxjhdcEDc7LJjq9UHk",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Runnin",
+        "popularity": 80,
+        "preview_url": "https://p.scdn.co/mp3-preview/5d0e6ec55530f3b250ee82c077760754efba3b20?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5SWnsxjhdcEDc7LJjq9UHk"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4QUNWTw2FsIz722xjUjFJw"
+          },
+          "href": "https://api.spotify.com/v1/albums/4QUNWTw2FsIz722xjUjFJw",
+          "id": "4QUNWTw2FsIz722xjUjFJw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ac3c0aecec76cd7b5a54795e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ac3c0aecec76cd7b5a54795e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ac3c0aecec76cd7b5a54795e",
+              "width": 64
+            }
+          ],
+          "name": "Issa Album",
+          "release_date": "2017-09-23",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:4QUNWTw2FsIz722xjUjFJw"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220306,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM11705546"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fQrGHiQOvpL9UgPvtYy6G",
+        "id": "2fQrGHiQOvpL9UgPvtYy6G",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Bank Account",
+        "popularity": 78,
+        "preview_url": "https://p.scdn.co/mp3-preview/249295a31e99403d93c629504ba96e2f636cca20?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2fQrGHiQOvpL9UgPvtYy6G"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+          },
+          "href": "https://api.spotify.com/v1/albums/007DWn799UWvfY1wwZeENR",
+          "id": "007DWn799UWvfY1wwZeENR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273280689ecc5e4b2038bb5e4bd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02280689ecc5e4b2038bb5e4bd",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851280689ecc5e4b2038bb5e4bd",
+              "width": 64
+            }
+          ],
+          "name": "i am > i was",
+          "release_date": "2018-12-21",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:007DWn799UWvfY1wwZeENR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 288624,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QZ45A1700126"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2t8yVaLvJ0RenpXUIAC52d",
+        "id": "2t8yVaLvJ0RenpXUIAC52d",
+        "is_local": false,
+        "is_playable": true,
+        "name": "a lot",
+        "popularity": 78,
+        "preview_url": "https://p.scdn.co/mp3-preview/0ff1fadf009e81e7d80912c2372c7381a49e5863?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2t8yVaLvJ0RenpXUIAC52d"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+              },
+              "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+              "id": "0iEtIxbK0KxaSlF7G42ZOp",
+              "name": "Metro Boomin",
+              "type": "artist",
+              "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+          },
+          "href": "https://api.spotify.com/v1/albums/6wTyGUWGCilBFZ837k5aRi",
+          "id": "6wTyGUWGCilBFZ837k5aRi",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02aa57907bf0cb2ca0c8cc74bc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851aa57907bf0cb2ca0c8cc74bc",
+              "width": 64
+            }
+          ],
+          "name": "SAVAGE MODE II",
+          "release_date": "2020-10-02",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:6wTyGUWGCilBFZ837k5aRi"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+            "id": "0iEtIxbK0KxaSlF7G42ZOp",
+            "name": "Metro Boomin",
+            "type": "artist",
+            "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193838,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM12005343"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Q34FP1AT7GEl9oLgNtiWj",
+        "id": "4Q34FP1AT7GEl9oLgNtiWj",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Mr. Right Now (feat. Drake)",
+        "popularity": 77,
+        "preview_url": "https://p.scdn.co/mp3-preview/326f0913ac1d2852c806436f6d49deac449d7383?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4Q34FP1AT7GEl9oLgNtiWj"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
+              },
+              "href": "https://api.spotify.com/v1/artists/3gGUMEwIX6XodWsYEvKSal",
+              "id": "3gGUMEwIX6XodWsYEvKSal",
+              "name": "YBN Nahmir",
+              "type": "artist",
+              "uri": "spotify:artist:3gGUMEwIX6XodWsYEvKSal"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2oGiXKFU4tMra0DRatJtSN"
+          },
+          "href": "https://api.spotify.com/v1/albums/2oGiXKFU4tMra0DRatJtSN",
+          "id": "2oGiXKFU4tMra0DRatJtSN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273fb5cc28ebfb7248b68f92387",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02fb5cc28ebfb7248b68f92387",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851fb5cc28ebfb7248b68f92387",
+              "width": 64
+            }
+          ],
+          "name": "VISIONLAND",
+          "release_date": "2021-03-25",
+          "release_date_precision": "day",
+          "total_tracks": 20,
+          "type": "album",
+          "uri": "spotify:album:2oGiXKFU4tMra0DRatJtSN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
+            },
+            "href": "https://api.spotify.com/v1/artists/3gGUMEwIX6XodWsYEvKSal",
+            "id": "3gGUMEwIX6XodWsYEvKSal",
+            "name": "YBN Nahmir",
+            "type": "artist",
+            "uri": "spotify:artist:3gGUMEwIX6XodWsYEvKSal"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 135417,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22100133"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qh4lSMXnvve7ye2GYLTwv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qh4lSMXnvve7ye2GYLTwv",
+        "id": "2qh4lSMXnvve7ye2GYLTwv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Opp Stoppa (feat. 21 Savage)",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/728115947155e2c7ba3f184cbe7d1cec879e32f4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2qh4lSMXnvve7ye2GYLTwv"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+              },
+              "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+              "id": "0iEtIxbK0KxaSlF7G42ZOp",
+              "name": "Metro Boomin",
+              "type": "artist",
+              "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+          },
+          "href": "https://api.spotify.com/v1/albums/6wTyGUWGCilBFZ837k5aRi",
+          "id": "6wTyGUWGCilBFZ837k5aRi",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02aa57907bf0cb2ca0c8cc74bc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851aa57907bf0cb2ca0c8cc74bc",
+              "width": 64
+            }
+          ],
+          "name": "SAVAGE MODE II",
+          "release_date": "2020-10-02",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:6wTyGUWGCilBFZ837k5aRi"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+            "id": "0iEtIxbK0KxaSlF7G42ZOp",
+            "name": "Metro Boomin",
+            "type": "artist",
+            "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190331,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM12005348"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ruoIF2UnoXdzK8mR61ebq",
+        "id": "3ruoIF2UnoXdzK8mR61ebq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Rich Nigga Shit (feat. Young Thug)",
+        "popularity": 75,
+        "preview_url": "https://p.scdn.co/mp3-preview/eabfb4dad8b6fe4e6f60130c952113121878ab98?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3ruoIF2UnoXdzK8mR61ebq"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+          },
+          "href": "https://api.spotify.com/v1/albums/007DWn799UWvfY1wwZeENR",
+          "id": "007DWn799UWvfY1wwZeENR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273280689ecc5e4b2038bb5e4bd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02280689ecc5e4b2038bb5e4bd",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851280689ecc5e4b2038bb5e4bd",
+              "width": 64
+            }
+          ],
+          "name": "i am > i was",
+          "release_date": "2018-12-21",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:007DWn799UWvfY1wwZeENR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195046,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QZ45A1700093"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50a8bKqlwDEqeiEknrzkTO",
+        "id": "50a8bKqlwDEqeiEknrzkTO",
+        "is_local": false,
+        "is_playable": true,
+        "name": "ball w/o you",
+        "popularity": 75,
+        "preview_url": "https://p.scdn.co/mp3-preview/defe1dbc7d17c731f8b38a98ce8bd8e2b02b1a2f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:50a8bKqlwDEqeiEknrzkTO"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+              },
+              "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+              "id": "1URnnhqYAYcrqrcwql10ft",
+              "name": "21 Savage",
+              "type": "artist",
+              "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4jyHGZHlA6AVFYmeAeLNGo"
+          },
+          "href": "https://api.spotify.com/v1/albums/4jyHGZHlA6AVFYmeAeLNGo",
+          "id": "4jyHGZHlA6AVFYmeAeLNGo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732d1b7b704f62135c84af8900",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022d1b7b704f62135c84af8900",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512d1b7b704f62135c84af8900",
+              "width": 64
+            }
+          ],
+          "name": "Spiral",
+          "release_date": "2021-04-30",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4jyHGZHlA6AVFYmeAeLNGo"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            },
+            "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173400,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM12101853"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YMCSqTmBTtcYA8dyUCvbT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YMCSqTmBTtcYA8dyUCvbT",
+        "id": "2YMCSqTmBTtcYA8dyUCvbT",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Spiral",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/e03f32b3b7b14ec32b762c19f040df86b2e3bb56?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2YMCSqTmBTtcYA8dyUCvbT"
+      }
+    ]
+  }

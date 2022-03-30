@@ -1,0 +1,29 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 9704962
+  },
+  "genres" : [ "atl hip hop", "rap", "trap" ],
+  "href" : "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+  "id" : "1URnnhqYAYcrqrcwql10ft",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/fcbc4560c03099fec55cf55054932ca3808e33d3",
+    "width" : 640
+  }, {
+    "height" : 320,
+    "url" : "https://i.scdn.co/image/a84657e5ec7be5af3e2bf896ad0927789262b296",
+    "width" : 320
+  }, {
+    "height" : 160,
+    "url" : "https://i.scdn.co/image/4882ead0ff08608c276c98cf11bcfb87cb59fd1c",
+    "width" : 160
+  } ],
+  "name" : "21 Savage",
+  "popularity" : 89,
+  "type" : "artist",
+  "uri" : "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+}

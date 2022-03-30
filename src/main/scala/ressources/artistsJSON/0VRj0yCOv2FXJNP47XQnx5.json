@@ -1,0 +1,29 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 5000685
+  },
+  "genres" : [ "atl hip hop", "hip hop", "melodic rap", "pop rap", "rap", "southern hip hop", "trap" ],
+  "href" : "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+  "id" : "0VRj0yCOv2FXJNP47XQnx5",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/5bbc6877502c2a0db474b3b2bd48a073f5048bc2",
+    "width" : 640
+  }, {
+    "height" : 320,
+    "url" : "https://i.scdn.co/image/64561dc42e110aeee2c8a819f14cf5b98438ddfe",
+    "width" : 320
+  }, {
+    "height" : 160,
+    "url" : "https://i.scdn.co/image/14b6788f934633a9400815623cdfdbdeca54f57c",
+    "width" : 160
+  } ],
+  "name" : "Quavo",
+  "popularity" : 84,
+  "type" : "artist",
+  "uri" : "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+}

@@ -1,0 +1,1044 @@
+{
+    "tracks": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+              },
+              "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+              "id": "246dkjvS1zLTtiykXe5h60",
+              "name": "Post Malone",
+              "type": "artist",
+              "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+          },
+          "href": "https://api.spotify.com/v1/albums/4g1ZRSobMefqF6nelkgibi",
+          "id": "4g1ZRSobMefqF6nelkgibi",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
+              "width": 64
+            }
+          ],
+          "name": "Hollywood's Bleeding",
+          "release_date": "2019-09-06",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+            },
+            "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+            "id": "246dkjvS1zLTtiykXe5h60",
+            "name": "Post Malone",
+            "type": "artist",
+            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 157560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71814888"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RiRZpuVRbi7oqRdSMwhQY",
+        "id": "0RiRZpuVRbi7oqRdSMwhQY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "popularity": 81,
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0RiRZpuVRbi7oqRdSMwhQY"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+              },
+              "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+              "id": "6vXTefBL93Dj5IqAWq6OTv",
+              "name": "French Montana",
+              "type": "artist",
+              "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
+          },
+          "href": "https://api.spotify.com/v1/albums/4c2p3TdN7NcQfCXyueCNnC",
+          "id": "4c2p3TdN7NcQfCXyueCNnC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028a31195a371b2233456f6c07",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518a31195a371b2233456f6c07",
+              "width": 64
+            }
+          ],
+          "name": "Jungle Rules",
+          "release_date": "2017-07-14",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:4c2p3TdN7NcQfCXyueCNnC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+            "id": "6vXTefBL93Dj5IqAWq6OTv",
+            "name": "French Montana",
+            "type": "artist",
+            "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 233901,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USSM11703478"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3B54sVLJ402zGa6Xm4YGNe",
+        "id": "3B54sVLJ402zGa6Xm4YGNe",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Unforgettable",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/3814de3ede7445566a5b176bb23120af44da62d8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3B54sVLJ402zGa6Xm4YGNe"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+              },
+              "href": "https://api.spotify.com/v1/artists/3oSJ7TBVCWMDMiYjXNiCKE",
+              "id": "3oSJ7TBVCWMDMiYjXNiCKE",
+              "name": "Kane Brown",
+              "type": "artist",
+              "uri": "spotify:artist:3oSJ7TBVCWMDMiYjXNiCKE"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+              "id": "1zNqQNIdeOUZHb8zbZRFMX",
+              "name": "Swae Lee",
+              "type": "artist",
+              "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+              },
+              "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+              "id": "6LuN9FCkKOj5PcnpouEgny",
+              "name": "Khalid",
+              "type": "artist",
+              "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
+          },
+          "href": "https://api.spotify.com/v1/albums/7MKfE4IRGdrH5bMkqaZ2Tp",
+          "id": "7MKfE4IRGdrH5bMkqaZ2Tp",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b670be86ddfa9d49caa56971",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b670be86ddfa9d49caa56971",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b670be86ddfa9d49caa56971",
+              "width": 64
+            }
+          ],
+          "name": "Be Like That (feat. Swae Lee & Khalid)",
+          "release_date": "2020-07-10",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7MKfE4IRGdrH5bMkqaZ2Tp"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oSJ7TBVCWMDMiYjXNiCKE",
+            "id": "3oSJ7TBVCWMDMiYjXNiCKE",
+            "name": "Kane Brown",
+            "type": "artist",
+            "uri": "spotify:artist:3oSJ7TBVCWMDMiYjXNiCKE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+            "id": "6LuN9FCkKOj5PcnpouEgny",
+            "name": "Khalid",
+            "type": "artist",
+            "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191406,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRN11900133"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5f1joOtoMeyppIcJGZQvqJ",
+        "id": "5f1joOtoMeyppIcJGZQvqJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Be Like That - feat. Swae Lee & Khalid",
+        "popularity": 80,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f50fb968d7c3ad92748fdcaec6ab9071dc0535f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5f1joOtoMeyppIcJGZQvqJ"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+              },
+              "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+              "id": "15UsOTVnJzReFVN1VCnxy4",
+              "name": "XXXTENTACION",
+              "type": "artist",
+              "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+              },
+              "href": "https://api.spotify.com/v1/artists/3wyVrVrFCkukjdVIdirGVY",
+              "id": "3wyVrVrFCkukjdVIdirGVY",
+              "name": "Lil Pump",
+              "type": "artist",
+              "uri": "spotify:artist:3wyVrVrFCkukjdVIdirGVY"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+              "id": "1zNqQNIdeOUZHb8zbZRFMX",
+              "name": "Swae Lee",
+              "type": "artist",
+              "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO"
+          },
+          "href": "https://api.spotify.com/v1/albums/3FtwiRgtcCLAiKHDvoj7bO",
+          "id": "3FtwiRgtcCLAiKHDvoj7bO",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27397edb4fc7ac3510ca4bb021c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0297edb4fc7ac3510ca4bb021c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485197edb4fc7ac3510ca4bb021c",
+              "width": 64
+            }
+          ],
+          "name": "Arms Around You (feat. Maluma & Swae Lee)",
+          "release_date": "2018-10-25",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3FtwiRgtcCLAiKHDvoj7bO"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+            },
+            "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+            "id": "15UsOTVnJzReFVN1VCnxy4",
+            "name": "XXXTENTACION",
+            "type": "artist",
+            "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+            },
+            "href": "https://api.spotify.com/v1/artists/3wyVrVrFCkukjdVIdirGVY",
+            "id": "3wyVrVrFCkukjdVIdirGVY",
+            "name": "Lil Pump",
+            "type": "artist",
+            "uri": "spotify:artist:3wyVrVrFCkukjdVIdirGVY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+            "id": "1r4hJ1h58CWwUQe3MxPuau",
+            "name": "Maluma",
+            "type": "artist",
+            "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198902,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USWB11802264"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2LskIZrCeLxRvCiGP8gxlh",
+        "id": "2LskIZrCeLxRvCiGP8gxlh",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Arms Around You (feat. Maluma & Swae Lee)",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/d3a5412359d900ccfbe6c52504da19ec186c7654?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2LskIZrCeLxRvCiGP8gxlh"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+              },
+              "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+              "id": "137W8MRPWKqSmrBGDBFSop",
+              "name": "Wiz Khalifa",
+              "type": "artist",
+              "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz"
+          },
+          "href": "https://api.spotify.com/v1/albums/0YFou4SbS16F4GhSADLDfz",
+          "id": "0YFou4SbS16F4GhSADLDfz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273393d29e88d493bdab8af1617",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02393d29e88d493bdab8af1617",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851393d29e88d493bdab8af1617",
+              "width": 64
+            }
+          ],
+          "name": "Rolling Papers 2",
+          "release_date": "2018-07-13",
+          "release_date_precision": "day",
+          "total_tracks": 25,
+          "type": "album",
+          "uri": "spotify:album:0YFou4SbS16F4GhSADLDfz"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+            },
+            "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+            "id": "137W8MRPWKqSmrBGDBFSop",
+            "name": "Wiz Khalifa",
+            "type": "artist",
+            "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226742,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USAT21802517"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IBSffWIu7P2MC7kMwy2FM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IBSffWIu7P2MC7kMwy2FM",
+        "id": "7IBSffWIu7P2MC7kMwy2FM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Hopeless Romantic (feat. Swae Lee)",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/9759d95dea3a538299f9b85f93fc3106b2923bdd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:7IBSffWIu7P2MC7kMwy2FM"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ",
+              "id": "0X2BH1fck6amBIoJhDVmmJ",
+              "name": "Ellie Goulding",
+              "type": "artist",
+              "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7hCfgsycCFH4bBjEfUwh3S"
+          },
+          "href": "https://api.spotify.com/v1/albums/7hCfgsycCFH4bBjEfUwh3S",
+          "id": "7hCfgsycCFH4bBjEfUwh3S",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735f76dbd311a0782823550b30",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025f76dbd311a0782823550b30",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515f76dbd311a0782823550b30",
+              "width": 64
+            }
+          ],
+          "name": "Brightest Blue",
+          "release_date": "2020-07-17",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:7hCfgsycCFH4bBjEfUwh3S"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ",
+            "id": "0X2BH1fck6amBIoJhDVmmJ",
+            "name": "Ellie Goulding",
+            "type": "artist",
+            "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+            "id": "5fMUXHkw8R8eOP2RNVYEZX",
+            "name": "Diplo",
+            "type": "artist",
+            "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 182626,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "GBUM71805350"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GjMaJ7DacMIkgoe8oMXGg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GjMaJ7DacMIkgoe8oMXGg",
+        "id": "2GjMaJ7DacMIkgoe8oMXGg",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Close To Me",
+        "popularity": 61,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2GjMaJ7DacMIkgoe8oMXGg"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+              "id": "1zNqQNIdeOUZHb8zbZRFMX",
+              "name": "Swae Lee",
+              "type": "artist",
+              "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
+          },
+          "href": "https://api.spotify.com/v1/albums/4v0FSMsulZqfi28KIdwDfb",
+          "id": "4v0FSMsulZqfi28KIdwDfb",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27316755a5a392866488c4087f6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0216755a5a392866488c4087f6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485116755a5a392866488c4087f6",
+              "width": 64
+            }
+          ],
+          "name": "Won't Be Late (feat. Drake)",
+          "release_date": "2019-08-16",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4v0FSMsulZqfi28KIdwDfb"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218709,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71916703"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2sqsNXfN0HtgDEgaHXiUTa",
+        "id": "2sqsNXfN0HtgDEgaHXiUTa",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Won't Be Late (feat. Drake)",
+        "popularity": 69,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2sqsNXfN0HtgDEgaHXiUTa"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+              },
+              "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+              "id": "7iZtZyCzp3LItcw1wtPI3D",
+              "name": "Rae Sremmurd",
+              "type": "artist",
+              "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+              "id": "1zNqQNIdeOUZHb8zbZRFMX",
+              "name": "Swae Lee",
+              "type": "artist",
+              "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu"
+              },
+              "href": "https://api.spotify.com/v1/artists/7EEiVZvj6RCEtVX2F2pyxu",
+              "id": "7EEiVZvj6RCEtVX2F2pyxu",
+              "name": "Slim Jxmmi",
+              "type": "artist",
+              "uri": "spotify:artist:7EEiVZvj6RCEtVX2F2pyxu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4vLYreWxd2ptOAzPwTyBI3"
+          },
+          "href": "https://api.spotify.com/v1/albums/4vLYreWxd2ptOAzPwTyBI3",
+          "id": "4vLYreWxd2ptOAzPwTyBI3",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ba9015f4504a9dfd7560bfa9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ba9015f4504a9dfd7560bfa9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ba9015f4504a9dfd7560bfa9",
+              "width": 64
+            }
+          ],
+          "name": "SR3MM",
+          "release_date": "2018-05-04",
+          "release_date_precision": "day",
+          "total_tracks": 27,
+          "type": "album",
+          "uri": "spotify:album:4vLYreWxd2ptOAzPwTyBI3"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+            "id": "7iZtZyCzp3LItcw1wtPI3D",
+            "name": "Rae Sremmurd",
+            "type": "artist",
+            "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu"
+            },
+            "href": "https://api.spotify.com/v1/artists/7EEiVZvj6RCEtVX2F2pyxu",
+            "id": "7EEiVZvj6RCEtVX2F2pyxu",
+            "name": "Slim Jxmmi",
+            "type": "artist",
+            "uri": "spotify:artist:7EEiVZvj6RCEtVX2F2pyxu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gCRApTajqwbnHHPbr2Fpi",
+            "id": "5gCRApTajqwbnHHPbr2Fpi",
+            "name": "Juicy J",
+            "type": "artist",
+            "uri": "spotify:artist:5gCRApTajqwbnHHPbr2Fpi"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 332300,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUM71802281"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BuZAIO8WZpavWVbbq3Lci"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1BuZAIO8WZpavWVbbq3Lci",
+        "id": "1BuZAIO8WZpavWVbbq3Lci",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Powerglide (feat. Juicy J) - From SR3MM",
+        "popularity": 69,
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1BuZAIO8WZpavWVbbq3Lci"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+              },
+              "href": "https://api.spotify.com/v1/artists/21WS9wngs9AqFckK7yYJPM",
+              "id": "21WS9wngs9AqFckK7yYJPM",
+              "name": "PnB Rock",
+              "type": "artist",
+              "uri": "spotify:artist:21WS9wngs9AqFckK7yYJPM"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+              "id": "1zNqQNIdeOUZHb8zbZRFMX",
+              "name": "Swae Lee",
+              "type": "artist",
+              "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+              },
+              "href": "https://api.spotify.com/v1/artists/1W7FNibLa0O0b572tB2w7t",
+              "id": "1W7FNibLa0O0b572tB2w7t",
+              "name": "Pink Sweat$",
+              "type": "artist",
+              "uri": "spotify:artist:1W7FNibLa0O0b572tB2w7t"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5qSROzaxIbsHCvydrXtRnd"
+          },
+          "href": "https://api.spotify.com/v1/albums/5qSROzaxIbsHCvydrXtRnd",
+          "id": "5qSROzaxIbsHCvydrXtRnd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e25c8e95e282612438d32609",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e25c8e95e282612438d32609",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e25c8e95e282612438d32609",
+              "width": 64
+            }
+          ],
+          "name": "Forever Never (feat. Swae Lee & Pink Sweat$)",
+          "release_date": "2021-05-27",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5qSROzaxIbsHCvydrXtRnd"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+            },
+            "href": "https://api.spotify.com/v1/artists/21WS9wngs9AqFckK7yYJPM",
+            "id": "21WS9wngs9AqFckK7yYJPM",
+            "name": "PnB Rock",
+            "type": "artist",
+            "uri": "spotify:artist:21WS9wngs9AqFckK7yYJPM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+            },
+            "href": "https://api.spotify.com/v1/artists/1W7FNibLa0O0b572tB2w7t",
+            "id": "1W7FNibLa0O0b572tB2w7t",
+            "name": "Pink Sweat$",
+            "type": "artist",
+            "uri": "spotify:artist:1W7FNibLa0O0b572tB2w7t"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180958,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22102079"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yvuOQGwF0Z8MbWNDSunxY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yvuOQGwF0Z8MbWNDSunxY",
+        "id": "1yvuOQGwF0Z8MbWNDSunxY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Forever Never (feat. Swae Lee & Pink Sweat$)",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/de2eee555f2732dc99e5ae2a87ce2f6dde2410ce?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1yvuOQGwF0Z8MbWNDSunxY"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+              },
+              "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+              "id": "7iZtZyCzp3LItcw1wtPI3D",
+              "name": "Rae Sremmurd",
+              "type": "artist",
+              "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+              "id": "1zNqQNIdeOUZHb8zbZRFMX",
+              "name": "Swae Lee",
+              "type": "artist",
+              "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu"
+              },
+              "href": "https://api.spotify.com/v1/artists/7EEiVZvj6RCEtVX2F2pyxu",
+              "id": "7EEiVZvj6RCEtVX2F2pyxu",
+              "name": "Slim Jxmmi",
+              "type": "artist",
+              "uri": "spotify:artist:7EEiVZvj6RCEtVX2F2pyxu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4vLYreWxd2ptOAzPwTyBI3"
+          },
+          "href": "https://api.spotify.com/v1/albums/4vLYreWxd2ptOAzPwTyBI3",
+          "id": "4vLYreWxd2ptOAzPwTyBI3",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ba9015f4504a9dfd7560bfa9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ba9015f4504a9dfd7560bfa9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ba9015f4504a9dfd7560bfa9",
+              "width": 64
+            }
+          ],
+          "name": "SR3MM",
+          "release_date": "2018-05-04",
+          "release_date_precision": "day",
+          "total_tracks": 27,
+          "type": "album",
+          "uri": "spotify:album:4vLYreWxd2ptOAzPwTyBI3"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+            "id": "7iZtZyCzp3LItcw1wtPI3D",
+            "name": "Rae Sremmurd",
+            "type": "artist",
+            "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+            "id": "1zNqQNIdeOUZHb8zbZRFMX",
+            "name": "Swae Lee",
+            "type": "artist",
+            "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu"
+            },
+            "href": "https://api.spotify.com/v1/artists/7EEiVZvj6RCEtVX2F2pyxu",
+            "id": "7EEiVZvj6RCEtVX2F2pyxu",
+            "name": "Slim Jxmmi",
+            "type": "artist",
+            "uri": "spotify:artist:7EEiVZvj6RCEtVX2F2pyxu"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 256341,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUM71803952"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TCnOEVeLQMXOUrpPlM7uY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TCnOEVeLQMXOUrpPlM7uY",
+        "id": "0TCnOEVeLQMXOUrpPlM7uY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Guatemala - From Swaecation",
+        "popularity": 68,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0TCnOEVeLQMXOUrpPlM7uY"
+      }
+    ]
+  }
