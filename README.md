@@ -1,2 +1,1 @@
-# spotifyAPI
-Scala exchange API
+# Spotifyapi
